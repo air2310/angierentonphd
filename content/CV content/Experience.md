@@ -2,7 +2,7 @@
 title: Professional Research Experience
 description:
 slug: Experience
-date: 2023-04-26
+# date: 2023-04-26
 # image: IMG_1269.jpg
 # categories:
 #     - CV

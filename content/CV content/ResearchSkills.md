@@ -2,7 +2,7 @@
 title: Research Skills
 description:
 slug: skill-set
-date: 2023-04-26
+#date: 2023-04-26
 #image: cover.jpg
 # categories:
 #     - CV

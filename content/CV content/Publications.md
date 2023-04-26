@@ -2,7 +2,7 @@
 title: Publications
 description:
 slug: publications
-date: 2023-04-26
+# date: 2023-04-26
 #image: cover.jpg
 # categories:
 tags:
