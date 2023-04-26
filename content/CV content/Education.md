@@ -3,11 +3,10 @@ title: Education
 description: 
 slug: Education
 date: 2023-04-26
-image: cover.jpg
-categories:
-    - CV
+# image: cover.jpg
+# categories:
+#     - CV
 tags:
-    - CV
     - Education
 ---
 
