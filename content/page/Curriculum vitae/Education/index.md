@@ -1,5 +1,5 @@
 ---
-title: Education
+title: Education2
 description: Education
 slug: Education
 date: 26-04-23
@@ -9,6 +9,11 @@ categories:
 tags:
     - CV
     - Education
+menu:
+    main:
+        weight: 3
+        params: 
+            icon: user
 ---
 
 ### PhD in Cognitive Neuroscience (Awarded with no corrections)
