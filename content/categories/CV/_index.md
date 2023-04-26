@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: CV
+description: Angela Renton's research experience
 image:
 
 # Badge style
