@@ -22,3 +22,19 @@ url = "https://twitter.com/angier2310"
 
 [social.params]
 icon = "brand-twitter"
+
+[[social]]
+identifier = "LinkedIn"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/air2310/"
+
+[social.params]
+icon = "brand-linkedin"
+
+[[social]]
+identifier = "Scholar"
+name = "Google Scholar"
+url = "https://scholar.google.com.au/citations?user=6pC19kMAAAAJ&hl=en"
+
+[social.params]
+icon = "brand-google"

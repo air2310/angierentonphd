@@ -2,7 +2,7 @@
 title: "Contact"
 date: 2023-04-26
 slug: "contact"
-image: cover.jpg
+image: contactheader.jpg
 tags:
     - Contact
 menu:

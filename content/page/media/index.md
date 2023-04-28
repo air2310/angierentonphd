@@ -4,7 +4,7 @@ description:
 slug: media
 image: mediaheader.jpg
 tags:
-    - media
+    - Media
 menu:
     main:
         weight: 3
