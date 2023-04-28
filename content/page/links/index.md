@@ -18,7 +18,7 @@ links:
     image: brain.svg
 menu:
     main: 
-        weight: 5
+        weight: 4
         params:
             icon: link
 

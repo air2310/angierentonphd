@@ -1,13 +1,13 @@
 ---
 title: "Curriculum Vitae"
-date: 2023-04-26
+date: 2023-04-25
 slug: "CV"
 image: cvheader.jpg
 tags:
     - CV
     - Education
     - Experience
-    - Skill-set
+    - Skills
 menu:
     main:
         weight: 2
